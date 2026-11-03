@@ -1,20 +1,83 @@
-# Malayalam AI Reel Script - Trending Facts
+SABIKVERSE – REEL 001
 
-**Topic:** Mind-Blowing Facts People Don't Know
-**Duration:** 30 Seconds
+WHY ₹99? – BUSINESS PSYCHOLOGY
 
-## Scene 1 (0-5s)
-* **Visual:** Shocked or curious human face with glowing futuristic background graphics.
-* **Voiceover / Text:** കേട്ടാൽ ആരും ഒന്നു ഞെട്ടിപ്പോകുന്ന 3 രസകരമായ ഫാക്ട്സ്! അവസാനത്തെ കാര്യം നിങ്ങൾ ഒരിക്കലും അറിഞ്ഞിട്ടുണ്ടാവില്ല.
+Brand: @sabikverse
+Language: Malayalam
+Voice: Own Male Voice
+Duration: 35 Seconds
+Style: Cinematic
 
-## Scene 2 (5-15s)
-* **Visual:** Fast-paced text animations showing space or time graphics.
-* **Voiceover / Text:** ഒന്നാമതായി, നമ്മുടെ തലച്ചോറിന് ഒരു ദിവസം ഉപയോഗിക്കാൻ കഴിയുന്നത്ര എനർജി കൊണ്ട് ഒരു ചെറിയ ലൈറ്റ് ബൾബ് മണിക്കൂറുകളോളം കത്തിക്കാൻ സാധിക്കും!
+---
 
-## Scene 3 (15-25s)
-* **Visual:** Deep ocean graphics or mysterious visual effect.
-* **Voiceover / Text:** രണ്ടാമതായി, ബഹിരാകാശത്തേക്കാൾ കൂടുതൽ കാര്യങ്ങൾ നമ്മൾ ഇനിയും കണ്ടെത്താനുള്ളത് നമ്മുടെ സ്വന്തം കടലിന്റെ അടിത്തട്ടിലാണെന്ന് നിങ്ങൾക്കറിയാമോ?
+SCENE 1 – HOOK (0–5s)
 
-## Scene 4 (25-30s)
-* **Visual:** Engagement prompt screen with like and follow icons.
-* **Voiceover / Text:** ഇതിൽ ഏതാണ് നിങ്ങൾക്ക് ഏറ്റവും അത്ഭുതമായി തോന്നിയത്? കമന്റ് ചെയ്യൂ, ഇതുപോലുള്ള ഫാക്ട്സിനായി ഫോളോ ചെയ്യൂ!
+Visual: ₹100 price tag changing into ₹99.
+
+Voiceover:
+
+കടകളിൽ എന്തുകൊണ്ടാണ് ₹100 എന്നതിന് പകരം ₹99 എന്ന് വില എഴുതുന്നത്? ഇതിന് പിന്നിൽ ഒരു രസകരമായ Psychology ഉണ്ട്!
+
+Text: WHY ₹99?
+
+SCENE 2 – PSYCHOLOGY (5–13s)
+
+Visual: Glowing human brain animation.
+
+Voiceover:
+
+ഇതിനെ പറയുന്നത് Left-Digit Effect എന്നാണ്. വിലയുടെ ഇടതുവശത്തുള്ള അക്കത്തിന് നമ്മുടെ ശ്രദ്ധയിൽ സ്വാധീനം ഉണ്ടാകാം.
+
+Text: LEFT-DIGIT EFFECT
+
+SCENE 3 – EXPLANATION (13–23s)
+
+Visual: ₹99 vs ₹100 comparison.
+
+Voiceover:
+
+₹99 കാണുമ്പോൾ നമ്മുടെ ശ്രദ്ധ ആദ്യം 9 എന്ന അക്കത്തിലേക്കാണ് പോകുന്നത്. ₹100-ൽ ആദ്യ അക്കം 1 ആണ്. ഈ ചെറിയ വ്യത്യാസം പോലും വില കുറവാണെന്ന് തോന്നിക്കാൻ ഇടയാക്കും.
+
+Text: ₹99 vs ₹100
+
+SCENE 4 – BUSINESS LESSON (23–30s)
+
+Visual: Cinematic supermarket and shopping cart.
+
+Voiceover:
+
+അതുകൊണ്ടാണ് പല ബിസിനസുകളും ഈ pricing strategy ഉപയോഗിക്കുന്നത്. പക്ഷേ എല്ലാവരെയും ഇത് ഒരുപോലെ സ്വാധീനിക്കണമെന്നില്ല.
+
+Text: BUSINESS PSYCHOLOGY
+
+SCENE 5 – FOLLOW (30–35s)
+
+Visual: Sabikverse logo animation.
+
+Voiceover:
+
+ഇതുപോലുള്ള Business Secrets അറിയാൻ Sabikverse Follow ചെയ്യൂ!
+
+Text: FOLLOW @SABIKVERSE
+
+---
+
+EDITING SETTINGS
+
+- Format: 9:16
+- Resolution: 1080p
+- FPS: 30
+- Font: Manjari
+- Colors: Black, White, Red
+- Voice: Own Malayalam Voice
+- Captions: Malayalam
+- Music: Low-volume cinematic background music
+
+CONTENT RULES
+
+1. Verified facts only.
+2. No misleading claims.
+3. Simple Malayalam explanations.
+4. One useful lesson per Reel.
+
+SABIKVERSE – Understand People. Understand Business.
